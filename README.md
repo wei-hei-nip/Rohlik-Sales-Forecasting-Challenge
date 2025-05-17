@@ -19,5 +19,6 @@ MAE: 36.43
 
 
 Kaggle
-Score: 63.45015
+
+Public Score: 63.45015
 , Private score: 64.06226
